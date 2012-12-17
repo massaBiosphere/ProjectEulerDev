@@ -12,8 +12,17 @@ public class kicker {
 //		Ans003 a003 = new Ans003();
 //		a003.kick();
 		
-		Ans004 a004 = new Ans004();
-		a004.kick();
-	}
+//		Ans004 a004 = new Ans004();
+//		a004.kick();
+
+//		Ans005 a005 = new Ans005();
+//		a005.kick();
+		
+//		Ans006 a006 = new Ans006();
+//		a006.kick();
+
+		Ans007 a007 = new Ans007();
+		a007.kick();
+}
 
 }
