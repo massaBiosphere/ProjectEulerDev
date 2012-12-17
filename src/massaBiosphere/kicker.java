@@ -11,8 +11,8 @@ public class kicker {
 
 //		...........and so on.
 		
-		Ans009 a009 = new Ans009();
-		a009.kick();
+		Ans010 a010 = new Ans010();
+		a010.kick();
 		
 }
 
